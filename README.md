@@ -16,12 +16,12 @@
 
 ### Basic Git Syntax
 
-The basic Git syntax is: program | action | destination
+The basic Git syntax is: `program | action | destination`
 
 #### Examples:
-- `git add .` is read as: git | add | .
+- `git add .` is read as: `git | add | .`
 (where the period represents everything in the current directory)*
 
-- `git commit -m "message"` is read as: git | commit -m | "message"
+- `git commit -m "message"` is read as: `git | commit -m | "message"`
 
-- `git status` is read as: git | status | (no destination)
+- `git status` is read as: `git | status | (no destination)`
